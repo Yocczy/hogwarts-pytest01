@@ -4,9 +4,9 @@
 pytest
 
 ###内容
-1.课堂练习：Calculator
+1.课堂练习：Calculator 计算器测试
 
-2.课后作业：Calculator
+2.课后作业：Calculator 计算器测试补全
 
 补全计算器中加法和除法的测试用例  
 使用参数化完成测试用例的自动生成  
