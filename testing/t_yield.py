@@ -17,9 +17,8 @@ for i in p:
 
 def provide():
     # 循环读取数据列表
-    for i in range(10):
-        return i
-
+    for a in range(10):
+        return a
 
 q = provide()
 print(q)
