@@ -29,7 +29,6 @@ from python_code.calc import Calculator
 def test(test):
     pass
 
-
 class TestCalc():
 
     @pytest.mark.run(order=0)

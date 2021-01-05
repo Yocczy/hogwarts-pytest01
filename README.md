@@ -1,4 +1,4 @@
-#介绍
+# 介绍
 霍格沃兹测试训练营python第三次课堂和作业记录
 
 pytest
@@ -17,6 +17,7 @@ pytest
 使用等价类，边界值，因果图等设计测试用例  
 测试用例中添加断言，验证结果  
 灵活使用 setup(), teardown() , setup_class(), teardown_class()
+<<<<<<< HEAD
 
 位置：testing/test_calc.py
 
@@ -37,4 +38,3 @@ pytest hook 函数
     结合allure 生成测试结果报告
 
 位置：testing/test_calc_fixture.py
-
