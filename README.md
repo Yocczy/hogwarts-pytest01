@@ -18,7 +18,7 @@ pytest
 测试用例中添加断言，验证结果  
 灵活使用 setup(), teardown() , setup_class(), teardown_class()
 
-位置：testing/test_calc.py
+__位置：testing/test_calc.py__
 
 ####第二次  
 1.课堂练习：  
@@ -36,4 +36,4 @@ pytest hook 函数
     控制测试用例顺序按照【加-减-乘-除】这个顺序执行  
     结合allure 生成测试结果报告
 
-位置：testing/test_calc_fixture.py
+__位置：testing/test_calc_fixture.py__
