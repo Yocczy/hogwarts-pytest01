@@ -18,9 +18,8 @@ def teardown_function():
     print('函数级别的teardown')
 
 
-def test_func1():
-    print('测试函数1')
-
+def test_func2():
+    print('测试函数2')
 
 class TestDemo():
 
